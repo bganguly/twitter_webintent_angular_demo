@@ -1,0 +1,16 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-nav {
+  float: none;
+}
+
+.navbar-nav>li {
+  text-align: center;
+  width: 50%;
+}
+
+.innerContainer {
+  margin:8px 0;
+}
